@@ -266,9 +266,3 @@ By configuring route tables, an Internet Gateway, a NAT Gateway, and EC2 instanc
 
 This project provides a foundation for learning more advanced AWS networking concepts, including bastion hosts, VPC endpoints, network ACLs, VPC peering, and hybrid connectivity.
 
-## Project Documentation
-
-This repository is part of my AWS and DevOps hands-on portfolio.
-
-GitHub repository:  
-https://github.com/pranitha-cloud-portfolio/aws-devops-hands-on
